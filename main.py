@@ -22,6 +22,9 @@ COLORS = [
     (128, 0, 0), (0, 128, 0), (0, 0, 128)
 ]
 
+
+
+
 # Set up the display
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Quick Draw - GitHub Achievement Project")
